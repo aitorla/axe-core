@@ -55,6 +55,7 @@
 		}
 	},
 	"scripts": {
+		"postinstall": "npm run build",
 		"start": "npm run develop",
 		"develop": "grunt dev --force",
 		"api-docs": "jsdoc --configure .jsdoc.json",
