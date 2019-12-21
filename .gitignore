@@ -12,11 +12,6 @@ tmp
 test/*/index.html
 test/integration/*/index.html
 
-# dist
-axe.js
-axe.*.js
-
-
 # generated jsdoc api docs
 doc/api/*
 
